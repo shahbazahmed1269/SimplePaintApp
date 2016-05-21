@@ -1,0 +1,27 @@
+body{
+  background-image: url("../assets/blogpic2.jpg");
+}
+#reset{
+  border: none;
+    color: white;
+    padding: 16px 44px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-weight: bolder;
+    margin-top: 11px;
+    margin-left: 934px;
+    background-color: #008CBA;
+  }
+  #canvas{
+     border:2px solid black;
+  }
+  #footer{
+    text-align: center;
+  }
+  h1{
+    color: #0B94E6;
+    font-weight: bolder;
+    text-decoration: underline;
+  }
