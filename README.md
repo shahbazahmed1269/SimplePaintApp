@@ -1,4 +1,4 @@
 # SimplePaintApp
 Simple Circle Paint App using HTML5 canvas and JavaScript
 
-Link to the app: http://shahbazahmed1269.github.io/SimplePaintAp
+Link to the app: http://shahbazahmed1269.github.io/SimplePaintApp
